@@ -9,7 +9,7 @@ Saturday, November 20, 2010
 
 ## Pictures
 
-[![](/images/family.jpg)](http://www.dropbox.com/gallery/8142750/1/Wedding%20Photos?h=6e9895)
+[![](./images/family.jpg)](http://www.dropbox.com/gallery/8142750/1/Wedding%20Photos?h=6e9895)
 
 Visit [www.dropbox.com](http://www.dropbox.com/gallery/8142750/1/Wedding%20Photos?h=6e9895)
 
@@ -20,10 +20,10 @@ Visit [www.dropbox.com](http://www.dropbox.com/gallery/8142750/1/Wedding%20Photo
 <br class="clear"/>
 
 <div class='ceremony'>
-  <img alt="Ann jason ceremony" src="/images/ann-jason-ceremony.png"/>
+  <img alt="Ann jason ceremony" src="./images/ann-jason-ceremony.png"/>
 </div>
 <div class='ceremony'>
-  <img alt="Church logo" src="/images/church-logo.png"/>
+  <img alt="Church logo" src="./images/church-logo.png"/>
   <br />
   <a href="http://www.glcpa.org">Grace Lutheran Church</a>
   <br />
@@ -34,7 +34,7 @@ Visit [www.dropbox.com](http://www.dropbox.com/gallery/8142750/1/Wedding%20Photo
   (814) 238-2478
 </div>
 <div class='ceremony'>
-  <a href="http://maps.google.com/maps?q=Grace+Lutheran+Church,+205+South+Garner+Street,+State+College,+Pa+16801"><img alt="Church map" src="/images/church-map.png"/></a>
+  <a href="http://maps.google.com/maps?q=Grace+Lutheran+Church,+205+South+Garner+Street,+State+College,+Pa+16801"><img alt="Church map" src="./images/church-map.png"/></a>
 </div>
 <br class='clear' />
 
@@ -44,10 +44,10 @@ Following ceremony
 
 <br class='clear' />
 <div class='reception'>
-  <a href="http://maps.google.com/maps?f=d&source=s_d&saddr=205+South+Garner+Street,+State+College,+Pa+16801&daddr=4144+Miller+Rd,+Petersburg,+PA+16669&hl=en&geocode=FVqCbgId7QNc-yn3H9DmoKjOiTFDnWL2r54Saw%3BFc51bAIdVvlb-ylBaOwVa6vOiTG9URXsi1GIOw&mra=ls&sll=40.662478,-77.858474&sspn=0.006511,0.010782&g=4144+Miller+Rd,+Petersburg,+PA+16669&ie=UTF8&t=h&z=12"><img alt="Directions" src="/images/directions.png"/></a>
+  <a href="http://maps.google.com/maps?f=d&source=s_d&saddr=205+South+Garner+Street,+State+College,+Pa+16801&daddr=4144+Miller+Rd,+Petersburg,+PA+16669&hl=en&geocode=FVqCbgId7QNc-yn3H9DmoKjOiTFDnWL2r54Saw%3BFc51bAIdVvlb-ylBaOwVa6vOiTG9URXsi1GIOw&mra=ls&sll=40.662478,-77.858474&sspn=0.006511,0.010782&g=4144+Miller+Rd,+Petersburg,+PA+16669&ie=UTF8&t=h&z=12"><img alt="Directions" src="./images/directions.png"/></a>
 </div>
 <div class='reception'>
-  <img alt="Reception" src="/images/reception.png"/>
+  <img alt="Reception" src="./images/reception.png"/>
   <br />
   <a href="http://www.mccannart.org/">McCann School of Art</a>
   <br />
@@ -59,13 +59,13 @@ Following ceremony
   <br />
 </div>
 <div class='reception'>
-  <img alt="Ann jason reception" src="/images/ann-jason-reception.png"/>
+  <img alt="Ann jason reception" src="./images/ann-jason-reception.png"/>
 </div>
 <br class='clear' />
 
 ## Accommodations
 
-<p><img alt="Accommodations" src="/images/accommodations.png"/></p>
+<p><img alt="Accommodations" src="./images/accommodations.png"/></p>
 <br class='clear' />
 <div class='accommodations'>
   Best Western
