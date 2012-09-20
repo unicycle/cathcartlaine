@@ -89,7 +89,7 @@ Following ceremony
   <br />
   CGLACA
   <br />
-  Days Inn also has airport shuttle
+  Days Inn also has an airport shuttle
 </div>
 
 ## Around Town
