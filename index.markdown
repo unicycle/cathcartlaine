@@ -9,7 +9,7 @@ Saturday, November 20, 2010
 
 ## Pictures
 
-[![](./images/alexander.jpg)](http://www.dropbox.com/sh/c3gjfpmnhz3h50p/idodGLeOLn?n=15103100)
+[![](./images/alexander.jpeg)](http://www.dropbox.com/sh/c3gjfpmnhz3h50p/idodGLeOLn?n=15103100)
 
 Visit [www.dropbox.com](https://www.dropbox.com/sh/c3gjfpmnhz3h50p/idodGLeOLn?n=15103100)
 
